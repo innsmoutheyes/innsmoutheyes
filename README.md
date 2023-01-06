@@ -10,4 +10,4 @@
 
 🧪This account is my test space for honing my skills and getting to know GitHub, so bear with me. 🔰
 
-### Some other tech related interests: Free and open-source software (FOSS), GIS, Data literacy, Data privacy, and Cybersecrity education.
+Some other tech related interests: Free and open-source software (FOSS), GIS, Data literacy, Data privacy, and Cybersecrity education.
